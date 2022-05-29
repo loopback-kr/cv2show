@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "cv2show"
+name = "cv2util"
 version = "0.1.0"
-description = ""
+description = "A utility library for OpenCV-Python"
 authors = ["Hyunseok Lim <hyunseoki@ut.ac.kr>"]
 
 [tool.poetry.dependencies]
